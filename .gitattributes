@@ -1,2 +1,4 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+pax/only_tagged_pax_topic_codes_segments.csv filter=lfs diff=lfs merge=lfs -text
+pax/pax_corpus_2257_agreements_v10.csv filter=lfs diff=lfs merge=lfs -text

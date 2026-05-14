@@ -1,0 +1,13 @@
+# Unused / superseded data files
+pax/pax_corpus_v8.csv
+pax/all_pax_topics.csv
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+
+# Streamlit
+.streamlit/secrets.toml
