@@ -2,6 +2,9 @@
 pax/pax_corpus_v8.csv
 pax/all_pax_topics.csv
 
+# Archived old app files (kept locally only)
+archive/
+
 # Python
 __pycache__/
 *.py[cod]
